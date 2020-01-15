@@ -1,5 +1,5 @@
 # US-CDC-Data-Extraction
-The objective of this file is to obtain information smoking information about a particular State by using the U.S. CDC Data API's. The end goal is to enter a State and retrieve associated smoking information.
+The objective of this file is to obtain information smoking information about a particular State by using the U.S. CDC Data API's. The end goal is to enter a State and retrieve associated CDC information.
 
 - API Usage Tutorial:
 https://dev.socrata.com/foundry/chronicdata.cdc.gov/wsas-xwh5
